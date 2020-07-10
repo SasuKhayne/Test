@@ -1,0 +1,28 @@
+2018/11/27 22:16:59.650 Info   C:\Users\brice\Documents\émulateur\JoyToKey.exe
+2018/11/27 22:16:59.650 Info   Starting JoyToKey Ver6.1.1
+2018/11/27 22:16:59.650 Info   ExeFile=C:\Users\brice\Documents\émulateur\JoyToKey.exe
+2018/11/27 22:16:59.650 Info   ConfigDir=C:\Users\brice\Documents\émulateur\
+2018/11/27 22:16:59.650 Info   IniFile=C:\Users\brice\Documents\émulateur\JoyToKey.ini
+2018/11/27 22:16:59.650 Info   Windows Version = 6.2
+2018/11/27 22:16:59.656 Info   Loaded VistaAPI.dll (Utils\Utils.cpp#232)
+2018/11/27 22:16:59.657 Info   LicenseKey "" is not valid
+2018/11/27 22:16:59.700 Info   Loading XInput1_3.dll (Joystick.cpp#128)
+2018/11/27 22:16:59.701 Error  Could not load XInput1_3.dll. Trying to load XInput1_4.dll... (Joystick.cpp#132)
+2018/11/27 22:16:59.704 Info   Initialized XInput (Joystick.cpp#146)
+2018/11/27 22:16:59.727 Info   Detected a DI joystick: {61B23BF0-F0F3-11E8-8002-444553540000}, Controller (XBOX 360 For Windows), Controller (XBOX 360 For Windows)
+2018/11/27 22:16:59.727 Info   Preferred index = -1
+2018/11/27 22:16:59.728 Info   numAxis = 5
+2018/11/27 22:16:59.728 Info   numPOVs = 1
+2018/11/27 22:16:59.728 Info   numButtons = 10
+2018/11/27 22:16:59.728 Info   EnumDeviceObject: Axis offset=0 type=102 name=Axe Y
+2018/11/27 22:16:59.728 Info   EnumDeviceObject: Axis offset=4 type=2 name=Axe X
+2018/11/27 22:16:59.729 Info   EnumDeviceObject: Axis offset=8 type=402 name=Rotation Y
+2018/11/27 22:16:59.729 Info   EnumDeviceObject: Axis offset=12 type=302 name=Rotation X
+2018/11/27 22:16:59.729 Info   EnumDeviceObject: Axis offset=16 type=202 name=Axe Z
+2018/11/27 22:16:59.729 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2018/11/27 22:16:59.731 Info   Joystick #1: Controller (XBOX 360 For Windows)
+2018/11/27 22:16:59.731 Info   1 joysticks are detected (Joystick.cpp#168)
+2018/11/27 22:16:59.731 Info   ConfigDir=C:\Users\brice\Documents\émulateur\*.cfg (ConfigFileManager.cpp#43)
+2018/11/27 22:16:59.734 Info   Failed to find AppLink.dat (AppLink\AppLinkManager.cpp#32)
+2018/11/27 22:16:59.744 Info   TimerInit: Initializing timer with x1 speed mode (interval = 16 msec)
+27/11/2018 23:13:03 Info   Received WM_QUERYENDSESSION.  Exiting... (Main.cpp#215)
